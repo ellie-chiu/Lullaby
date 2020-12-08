@@ -13,6 +13,7 @@
 		2638F3F8257E432400E0CFB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2638F3F6257E432400E0CFB7 /* Main.storyboard */; };
 		2638F3FA257E432500E0CFB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2638F3F9257E432500E0CFB7 /* Assets.xcassets */; };
 		2638F3FD257E432500E0CFB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2638F3FB257E432500E0CFB7 /* LaunchScreen.storyboard */; };
+		26C37459257FB5F600F1EA1F /* Umbrella.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 26C37458257FB5F600F1EA1F /* Umbrella.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2638F3F9257E432500E0CFB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2638F3FC257E432500E0CFB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2638F3FE257E432500E0CFB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26C37458257FB5F600F1EA1F /* Umbrella.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Umbrella.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		2638F3E4257E432400E0CFB7 = {
 			isa = PBXGroup;
 			children = (
+				26C37458257FB5F600F1EA1F /* Umbrella.mp3 */,
 				2638F3EF257E432400E0CFB7 /* lullaby */,
 				2638F3EE257E432400E0CFB7 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2638F3FD257E432500E0CFB7 /* LaunchScreen.storyboard in Resources */,
+				26C37459257FB5F600F1EA1F /* Umbrella.mp3 in Resources */,
 				2638F3FA257E432500E0CFB7 /* Assets.xcassets in Resources */,
 				2638F3F8257E432400E0CFB7 /* Main.storyboard in Resources */,
 			);
